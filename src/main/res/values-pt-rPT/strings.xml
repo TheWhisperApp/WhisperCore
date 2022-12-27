@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_notify_unmuted">sem alterações.</string>
+    <string name="chat_notify_muted">Mudo.</string>
+    <string name="chat_notify_muted_deafened">Mudo e ensurdecido</string>
+    <string name="perm_denied">Permissão negada.</string>
+</resources>
